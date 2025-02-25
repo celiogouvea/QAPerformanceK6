@@ -1,6 +1,6 @@
 # Projeto de Teste de Desempenho com K6 - BlazeDemo
 
-Este projeto realiza testes de desempenho na aplicação **BlazeDemo** ([teste](https://reqres.in/api/users)) utilizando a ferramenta **K6**.
+Este projeto realiza testes de desempenho na aplicação **API Publica** ([teste](https://reqres.in/api/users)) utilizando a ferramenta **K6**.
 
 ## 📌 Objetivo
 
